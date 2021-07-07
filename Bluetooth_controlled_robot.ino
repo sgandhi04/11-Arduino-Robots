@@ -46,7 +46,7 @@ void loop() {
 
 
     }
-    else if (bob == 'r') {
+    else if (bob == 'l') {
       digitalWrite(10, LOW);
       digitalWrite(11, LOW);
       digitalWrite(12, HIGH);
